@@ -17,6 +17,7 @@ programa
 		    {
 		    	cont6++
 		    }
+		    
 		}   
 		soma = soma/cont
 		escreva("\nMédia: ",soma)
@@ -28,7 +29,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 366; 
+ * @POSICAO-CURSOR = 257; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
