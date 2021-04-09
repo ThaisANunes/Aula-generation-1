@@ -3,7 +3,6 @@ package POO;
 public class Cachorro extends Animal{
 	
 	private String raca;
-	private String latir;
 
 	public Cachorro()
 	{
