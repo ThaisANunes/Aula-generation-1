@@ -15,64 +15,64 @@ public class Musicas extends Listas{
 	@Override
 	public List<String> lista1()
 	{
-		List<String> listaAcao = new ArrayList<String>();
-		listaAcao.add("Cobra kai");
-		listaAcao.add("Vikings");
-		listaAcao.add("The Umbrella Academy ñ HQ");
-		listaAcao.add("The Boys");
-		return listaAcao;
+		List<String> listaPop = new ArrayList<String>();
+		listaPop.add("You don't own me -SAYGRACE");
+		listaPop.add("I knew you were trouble -Taylor Swift  ");
+		listaPop.add("MONTERO - Lil Nas X");
+		listaPop.add("Levitating - Dua Lipa");
+		return listaPop;
 	}
 	@Override
 	public List<String> lista2()
 	{
-		List<String> listaTerror = new ArrayList<String>();
-		listaTerror.add("The Purge");
-		listaTerror.add("HistÛria de Horror Americana (American Horror Story) ");
-		listaTerror.add("A MaldiÁ„o da ResidÍncia Hill");
-		listaTerror.add("Mindhunter");
-		return listaTerror;
+		List<String> listaRock = new ArrayList<String>();
+		listaRock.add("Guns N' Roses - Sweet Child O' Mine");
+		listaRock.add("Metallica - One");
+		listaRock.add("The Strokes - Reptilia");
+		listaRock.add("Muse - Knights of Cydonia");
+		return listaRock;
 	}
 	@Override
 	public List<String> lista3()
 	{
-		List<String> listaRomance = new ArrayList<String>();
-		listaRomance.add("Modern Family ñ Familiar");
-		listaRomance.add("Modern Love");
-		listaRomance.add("Doces MagnÛlias");
-		return listaRomance;
+		List<String> listaSertanejo = new ArrayList<String>();
+		listaSertanejo.add("Marilia Mendon√ßa - Ciumeira");
+		listaSertanejo.add("Jorge & Mateus -  Vogais e Consoantes");
+		listaSertanejo.add("Luiza & Maurilio - S de Saudade");
+		listaSertanejo.add("Lauana Prado - Cobaia");
+		return listaSertanejo;
 	}
 	@Override
 	public List<String> lista4()
 	{
-		List<String> listaFiccaoFantasia = new ArrayList<String>();
-		listaFiccaoFantasia.add("Black Mirror");
-		listaFiccaoFantasia.add("Dark");	
-		listaFiccaoFantasia.add("Carnival Row");
-		listaFiccaoFantasia.add("Stranger Things");
-		listaFiccaoFantasia.add("Carnival Row");
-		listaFiccaoFantasia.add("Orphan Black");
-		return listaFiccaoFantasia;
+		List<String> listaSamba = new ArrayList<String>();
+		listaSamba.add("Beth Carvalho - Agoniza Mas N√£o Morre");
+		listaSamba.add("Cartola - As Rosas N√£o Falam");	
+		listaSamba.add("Jo√£o Nogueira - Al√©m do Espelho");
+		listaSamba.add("Reza - Maria Rita");
+
+		return listaSamba;
 	}
 	@Override
 	public List<String> lista5()
 	{
-		List<String> listaDrama = new ArrayList<String>();
-		listaDrama.add("Anne With an \"E\"");
-		listaDrama.add("The Crown");
-		listaDrama.add("Olhos que Condenam");
-		listaDrama.add("This is Us");
-		
-		return listaDrama;
+		List<String> listaRap = new ArrayList<String>();
+		listaRap.add("Racionais MC's - Cap√≠tulo 4 Vers√≠culo 3");
+		listaRap.add("Emicida - Mandume");
+		listaRap.add("Rashid - Esteri√≥tipo");
+		listaRap.add("Inqu√©rito - Versos Vegetarianos");
+
+		return listaRap;
 	}
 	@Override
 	public List<String> lista6()
 	{
-		List<String> listaAnimacao = new ArrayList<String>();
-		listaAnimacao.add("BoJack Horseman");
-		listaAnimacao.add("Rick e Morty");
-		listaAnimacao.add("Sem Maturidade para Isso");
-		listaAnimacao.add("The Midnight Gospel");
-		return listaAnimacao;
+		List<String> listaKpop = new ArrayList<String>();
+		listaKpop.add("BTS - Spring Day");
+		listaKpop.add("TXT - Nap of a Star ");
+		listaKpop.add("PENTAGON - Shine");
+		listaKpop.add("TWICE - I Can't Stop Me");
+		return listaKpop;
 	}
 	
 	
